@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Cameron 👋
 
 [![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=cameron-carruthers&show_icons=true&theme=nightowl)](https://github.com/cameron-carruthers/github-readme-stats)
 
