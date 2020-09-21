@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=cameron-carruthers&show_icons=true&theme=nightowl)](https://github.com/cameron-carruthers/github-readme-stats)
+
 <!--
 **cameron-carruthers/cameron-carruthers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
