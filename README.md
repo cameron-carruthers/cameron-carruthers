@@ -1,6 +1,6 @@
 ### Hi there, I'm Cameron 👋
 
-[![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=cameron-carruthers&show_icons=true&theme=nightowl)](https://github.com/cameron-carruthers/github-readme-stats)
+[![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=cameron-carruthers&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Technologies I Work With
 - Front-End - JavaScript (ES6), React, jQuery, HTML5, CSS, Reactstrap, Styled Components
