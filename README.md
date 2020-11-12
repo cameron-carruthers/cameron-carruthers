@@ -3,17 +3,15 @@
 [![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=cameron-carruthers&show_icons=true&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Technologies I Work With
-Front-End - JavaScript (ES6), React, jQuery, HTML5, CSS, Reactstrap, Styled Components
+Front-End - HTML5, CSS3, JavaScript(ES6+), React(+Hooks), jQuery, SASS, Bootstrap/reactstrap, styled-components, Tailwind CSS, Figma
 <br>
 Back-End - Node, Express, MongoDB, Mongoose
 <br>
-UI/UX Design - Wireframing, Figma
+Testing  - Jest, Enzyme, Mocha, Chai, Artillery, New Relic
 <br>
-Testing  - Jest, Enzyme, Mocha, Chai, CircleCI, Artillery, New Relic
+Tools - Git, GitHub, npm, Webpack, Babel, ESLint, Prettier, Trello, AWS Elastic Beanstalk, Postman, CircleCI
 <br>
-Tools - Git, npm, Webpack, Babel, Trello, AWS, Postman
-<br>
-Techniques - Agile Development, Pair Programming, Service-Oriented Architecture, Responsive Web Design
+Techniques - Agile Development, Pair Programming, Microservice Architecture, Responsive Web Design
 
 <!--
 **cameron-carruthers/cameron-carruthers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
