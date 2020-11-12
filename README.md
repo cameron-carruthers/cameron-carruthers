@@ -3,7 +3,7 @@
 [![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=cameron-carruthers&show_icons=true&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Technologies I Work With
-Front-End - HTML5, CSS3, JavaScript(ES6+), React(+Hooks), jQuery, SASS, Bootstrap/reactstrap, styled-components, Tailwind CSS, Figma
+Front-End - HTML5, CSS3, JavaScript(ES6+), React(+Hooks), jQuery, SASS, Bootstrap/reactstrap, styled-components, Tailwind CSS, Storybook, Figma
 <br>
 Back-End - Node, Express, MongoDB, Mongoose
 <br>
