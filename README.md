@@ -3,17 +3,15 @@
 [![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=cameron-carruthers&show_icons=true&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Technologies I Work With
-Front-End - JavaScript, React, jQuery, CSS, SVG, SASS, Styled Components, Reactstrap, TailwindCSS, Storybook
+Front-End - HTML, CSS, JavaScript, TypeScript, React, Redux, jQuery, SVG, Sass, Styled Components, Bootstrap, Reactstrap, TailwindCSS, Storybook
 <br>
-Back-End - Python, Flask, Node, Express, MySQL, SQLite, SQLAlchemy, MongoDB, Mongoose, GraphQL
+Back-End - Python, Flask, Node, Express, MySQL, SQLite, SQLAlchemy, MongoDB,  Mongoose, GraphQL
 <br>
-Mobile - React Native
+Mobile - React Native, Expo, React Navigation, React Native Animated Loader/Lottie
 <br>
-UI/UX Design - Wireframing, Mockups, Figma
+UI/UX Design - Wireframing, Mockups, Figma, Design Systems
 <br>
-Testing - Jest, Enzyme, Mocha, Chai, ESLint, Artillery, New Relic
-<br>
-Tools - Git, GitHub, Webpack, Babel, Postman, CircleCI, Expo, AWS Amplify, AWS Elastic Beanstalk, Heroku
+Testing & Tools  - Jest, Enzyme, Git, Webpack, Babel, Postman, CircleCI, AWS Amplify, AWS Elastic Beanstalk, Heroku
 <br>
 Techniques - Responsive Web Design, Agile Development, Microservice Architecture, RESTful APIs
 
