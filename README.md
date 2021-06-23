@@ -7,13 +7,13 @@ Front-End - HTML, CSS, JavaScript, TypeScript, React, GraphQL (Apollo Client), S
 <br>
 Back-End - Next.js, Node, Express, Hapi, GraphQL (Apollo Server), PostgreSQL, MongoDB, Redis
 <br>
-Mobile - React Native, Expo, React Navigation
+Mobile - React Native (Expo)
 <br>
 UI/UX Design - Wireframing, Mockups, Figma, Design Systems
 <br>
 Testing & Tools - Jest, Enzyme, Git, Webpack, Babel, CircleCI, AWS Elastic Beanstalk, Heroku
 <br>
-Techniques - Responsive Web Design, Agile Development, Microservice Architecture, RESTful APIs
+Techniques - Responsive Web Design, Agile Development, Microservice Architecture
 
 <!--
 **cameron-carruthers/cameron-carruthers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
