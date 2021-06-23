@@ -3,9 +3,9 @@
 [![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=cameron-carruthers&show_icons=true&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Technologies I Work With
-Front-End - HTML, CSS, JavaScript, TypeScript, React, Sass, Styled Components, TailwindCSS, Storybook
+Front-End - HTML, CSS, JavaScript, TypeScript, React, GraphQL (Apollo Client), Styled Components, Semantic UI React, Storybook
 <br>
-Back-End - Next.js, Node, Express, Python, Flask, MongoDB, Mongoose, Redis
+Back-End - Next.js, Node, Express, Hapi, GraphQL (Apollo Server), PostgreSQL, MongoDB, Redis
 <br>
 Mobile - React Native, Expo, React Navigation
 <br>
