@@ -5,7 +5,7 @@
 #### Technologies I Work With
 Front-End - HTML, CSS, JavaScript, TypeScript, React, GraphQL (Apollo Client), Styled Components, Semantic UI React, Storybook
 <br>
-Back-End - Node, Express, Hapi, GraphQL (Apollo Server), Next.js, PostgreSQL, MongoDB, Redis
+Back-End - Node, Express, Hapi, Next.js, GraphQL (Apollo Server), PostgreSQL, MongoDB, Redis
 <br>
 Mobile - React Native (Expo)
 <br>
