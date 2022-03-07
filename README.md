@@ -6,15 +6,15 @@ I am a Software Engineer and Music Teacher in Denver, Colorado. I am passionate 
 
 ### Skills:
 
-Front-End - HTML, CSS, JavaScript, TypeScript, React, GraphQL, Styled Components, Semantic UI, Storybook
+Languages - HTML, CSS, JavaScript, TypeScript
 <br>
-Back-End - Node, Express, Hapi, Next.js, GraphQL, PostgreSQL, MongoDB, Redis
+Frameworks - React, Next.js, React Native, Express, Hapi, GraphQL, Styled Components, Semantic UI
 <br>
-Mobile - React Native (Expo)
+Databases - PostgreSQL, MongoDB, Redis
 <br>
 UI/UX Design - Wireframing, Prototyping, Figma, Design Systems
 <br>
-Testing & Tools - Jest, React Testing Library, Docker, Heroku, AWS Lambda, AWS Step Functions
+Testing & Tools - Jest, React Testing Library, Storybook, Docker, Heroku, AWS Lambda, AWS Step Functions
 
 <!--
 **cameron-carruthers/cameron-carruthers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
