@@ -1,20 +1,16 @@
 ### Hello, I'm Cameron 👋
 
-[![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=cameron-carruthers&show_icons=true&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-I am a Software Engineer and Music Teacher in Denver, Colorado. I am passionate about identifying pain points in the world and innovating simple and intuitive solutions to solve them. I love getting the chance to take complex information and break it down into simple steps for others, and hopefully make their lives a little easier and a little brighter in the process.
+I am a software engineer in Denver, Colorado. I am passionate about identifying pain points in the world and innovating simple and intuitive solutions to solve them, hopefully making the world a little brighter in the process.
 
 ### Skills:
 
-Languages - HTML, CSS, JavaScript, TypeScript
+Front-end - HTML/CSS, JavaScript, React, Apollo Client, Storybook, Figma
 <br>
-Frameworks - React, Next.js, React Native, Express, Hapi, GraphQL, Styled Components, Semantic UI
+Back-end - Node, Hapi, Apollo Server, Postgres, Redis
 <br>
-Databases - PostgreSQL, MongoDB, Redis
+Testing & Tools - Jest, CircleCI, Docker, AWS (S3, Lambda, SNS, EKS, Airflow, EC2, RDS, Redshift, IAM)
 <br>
-UI/UX Design - Wireframing, Prototyping, Figma, Design Systems
-<br>
-Testing & Tools - Jest, React Testing Library, Storybook, Docker, Heroku, AWS Lambda, AWS Step Functions
+Techniques - Microservices (GraphQL & REST), Apollo Federation, Agile, User Research, Wireframing
 
 <!--
 **cameron-carruthers/cameron-carruthers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
